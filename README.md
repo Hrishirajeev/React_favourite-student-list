@@ -1,4 +1,4 @@
-# StudentSpace
+# favoritesarea
 
 A responsive React application to manage favourite students.
 
